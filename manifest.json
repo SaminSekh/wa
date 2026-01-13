@@ -1,0 +1,16 @@
+{
+    "name": "WhatsApp +",
+    "short_name": "WA+",
+    "description": "A WhatsApp-style contact manager with scheduling and deep links.",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#f0f2f5",
+    "theme_color": "#008069",
+    "icons": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/512/124/124034.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
